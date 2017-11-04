@@ -1,0 +1,21 @@
+#text-container {
+    text-align: center;
+}
+
+#ball {
+    height: 40vh;
+    width: 40vh;
+    background-color: lightgreen;
+    border-radius: 50%;
+    transition: 0.2s;
+    text-align: center;
+    margin: auto;
+}
+
+#ball:hover {
+    transform: scale(1.1);
+}
+
+#ball-container {
+    text-align: center;
+}
